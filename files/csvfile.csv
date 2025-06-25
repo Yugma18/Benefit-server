@@ -1,0 +1,6 @@
+Image,Full name,email,Employee Id,UEI /Number,  Employee     Start Date,Department,Anual Budget,Plan Status,Plan Type,Actions
+image1.jpg,Alice Johnson,alice.johnson@example.com,EMP001,UEI123456,2021-06-15,Engineering,85000,Active,Full-Time,Edit/Delete
+image2.jpg,Bob Smith,bob.smith@example.com,EMP002,UEI654321,2022-01-10,Marketing,62000,Inactive,Part-Time,Edit/Delete
+image3.jpg,Charlie Davis,charlie.davis@example.com,EMP003,UEI789456,2023-03-01,HR,70000,Pending,Contract,Edit/Delete
+image4.jpg,Diana Lee,diana.lee@example.com,EMP004,UEI321654,2020-09-23,Finance,92000,Active,Full-Time,Edit/Delete
+image5.jpg,Ethan Wright,ethan.wright@example.com,EMP005,UEI987321,2019-11-05,Sales,58000,Inactive,Intern,Edit/Delete

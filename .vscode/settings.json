@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/26522517-a3d4-4471-8fd5-45d9c114795d/resourceGroups/benefit-rg/providers/Microsoft.Web/sites/benefit-server",
+    "appService.deploySubpath": "."
+}
